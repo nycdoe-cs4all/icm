@@ -7,6 +7,10 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 - [PD Materials: Day 3](https://demo.peblio.co/pebl/8yxLcTuw8)
 - [PD Materials: Day 4](https://demo.peblio.co/pebl/Qb50Ipmir)
 
+## A Guide to Teaching CS
+_This pebl includes some suggestions for classroom practices. It is by no means exhaustive and should be used to find practices that you think will be effective in your classroom._
+- [CS Teaching Guide](https://demo.peblio.co/pebl/rMb6jcnem)
+
 ## A Guide to Using Peblio 
 _The curriculum and worksheets are built using the Peblio platform. Peblio pages contain executable code, text, slides, videos and more. They are useful for creating and sharing programming worksheets and documenting programming projects. See this guide for detailed instructions._
 - [Peblio Guide](https://demo.peblio.co/pebl/XeJAt6pVQ)
