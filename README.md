@@ -19,7 +19,7 @@ _The curriculum and worksheets are built using the Peblio platform. Peblio pages
 - [Loading Gifs in p5](https://demo.peblio.co/pebl/b6F-rrWDF)
 
 ## Curriculum  
- _These resources can be found in another format with some differences [here](https://nycdoe-cs4all.github.io/index.html)_
+ _Below you can find all teacher-facing lessons and materials for the ICM curriculum. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary><br>
   
