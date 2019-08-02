@@ -13,26 +13,7 @@ _The curriculum and worksheets are built using the Peblio platform. Peblio pages
 - [Uploading images in Peblio](https://demo.peblio.co/pebl/5qrWMaoi6)
 - [Loading Gifs in p5](https://demo.peblio.co/pebl/b6F-rrWDF)
 
-## Instructional Videos 
-_The coding train is am amazing resource for p5 instructional videos. Dan Shiffman is amazing and you can learn anything from his channel._
-
-- [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-- [Intro to p5 Learning Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-
-
-## Getting started with p5 projects 
-_These projects help you get up and running with p5 very quickly. They include instructions, videos and sample code. You can create the projects in the Peblio workspace as you watch these videos. They are not classroom resources, but resources to help you build your comfort level with p5._
-
-- [Project 1: Drawing Apps](https://demo.peblio.co/pebl/Muth86erj)
-- [Project 2: Generative Design](https://demo.peblio.co/pebl/xtShIBrtc)
-- [Project 3: Game Design](https://demo.peblio.co/pebl/oqwx-4Zz7)
-
-## Interactive Art: Hour of Code
-_This hour of code activity introduces drawing with p5 and system variables mouseX and mouseY. If you change the sequence and teach colors after shapes followed by system variables, this is a great project option._
-- [Hour of Code Page](https://www.peblio.co/hour-of-code)
-
-
-## High School Curriculum  
+## Curriculum  
  _These resources can be found in another format with some differences [here](https://nycdoe-cs4all.github.io/index.html)_
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary><br>
@@ -156,7 +137,26 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 
 </details>
 
-## Workshops and Tutorials  
+## Instructional Videos 
+_The coding train is am amazing resource for p5 instructional videos. Dan Shiffman is amazing and you can learn anything from his channel._
+
+- [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Intro to p5 Learning Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+
+## Getting started with p5 projects 
+_These projects help you get up and running with p5 very quickly. They include instructions, videos and sample code. You can create the projects in the Peblio workspace as you watch these videos. They are not classroom resources, but resources to help you build your comfort level with p5._
+
+- [Project 1: Drawing Apps](https://demo.peblio.co/pebl/Muth86erj)
+- [Project 2: Generative Design](https://demo.peblio.co/pebl/xtShIBrtc)
+- [Project 3: Game Design](https://demo.peblio.co/pebl/oqwx-4Zz7)
+
+## Interactive Art: Hour of Code
+_This hour of code activity introduces drawing with p5 and system variables mouseX and mouseY. If you change the sequence and teach colors after shapes followed by system variables, this is a great project option._
+- [Hour of Code Page](https://www.peblio.co/hour-of-code)
+
+
+## Additional Workshops and Tutorials  
 - Meme Generator:Build a randomized meme generator in p5
   -[Tutorial](https://demo.peblio.co/pebl/qsH5OOeV3)
 - Generative Portraits: upload images and generate portraits with p5 shapes and the .get function
@@ -173,4 +173,4 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 ## Communities 
 - [Facebook group for Processing and p5.js users](https://www.facebook.com/search/top/?q=creative%20coding%20with%20processing%20and%20p5.js&epa=SEARCH_BOX)
 - [Processing Discourse discussion group](https://discourse.processing.org/) 
-- [NYC DOE CSforAll Slack group](https://join.slack.com/t/cs4allteachers/shared_invite/enQtMzIwODg0NjEyMzg2LWNhNTI0ODk1N2RkNTQwODMxMTNhYjE1ZWYyMzZiNjM5MDRjZTQ5NTNlMGI5MjQ0OGY1MjQ2ODc0MDcwZGY2YTI) 
+- [NYC DOE CSforAll Teacher Slack group](https://join.slack.com/t/cs4allteachers/shared_invite/enQtMzIwODg0NjEyMzg2LWNhNTI0ODk1N2RkNTQwODMxMTNhYjE1ZWYyMzZiNjM5MDRjZTQ5NTNlMGI5MjQ0OGY1MjQ2ODc0MDcwZGY2YTI) 
