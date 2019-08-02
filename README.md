@@ -157,7 +157,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 
 
 ## Additional Workshops and Tutorials  
-- Meme Generator:Build a randomized meme generator in p5
+- Meme Generator: Build a randomized meme generator in p5
   -[Tutorial](https://demo.peblio.co/pebl/qsH5OOeV3)
 - Generative Portraits: upload images and generate portraits with p5 shapes and the .get function
   -[Worksheet](https://demo.peblio.co/pebl/c3fUnHI9v)
