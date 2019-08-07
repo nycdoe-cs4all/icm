@@ -4,6 +4,7 @@
 _These pebls include the slides and sample code for PD. It will be updated daily._
 - [PD Materials: Day 1](https://demo.peblio.co/pebl/vFj5_NK0y)
 - [PD Materials: Day 2](https://demo.peblio.co/pebl/i5BdgItjl)
+- [PD Materials: Day 3](https://demo.peblio.co/pebl/8yxLcTuw8)
 - [p5.js Project Guide Template](https://demo.peblio.co/pebl/3oHELZENk)
 
 ## A Guide to Teaching CS
