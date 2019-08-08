@@ -3,7 +3,7 @@
 ## PD Materials
 
 ### Google Slides
-_These are the individual daily slides. Make a copy to your own Google Drive to modify them!_
+_These are the individual daily slides. Copy them to your own Google Drive to modify them!_
 - [Slides Day 1](https://docs.google.com/presentation/d/1mzRYHrmfexKwKkiaZZS5DguoUz_esjuRMkk-IEJ9o-o/edit?usp=sharing)
 - [Slides Day 2](https://docs.google.com/presentation/d/11n00zseDKOjKUc2Pte8pyou9EcySIn4Skcu4QRm4L-Y/edit?usp=sharing)
 - [Slides Day 3](https://docs.google.com/presentation/d/1PzLnlFo9eLHXk_KdeHGJx9PBuY_QiyT0P3wMWJn40ag/edit?usp=sharing)
