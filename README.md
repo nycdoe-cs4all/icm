@@ -1,6 +1,15 @@
 # Introduction to Computational Media with p5.js
 
-## PD Materials  
+## PD Materials
+
+### Google Slides
+_These are the individual daily slides. Make a copy to your own Google Drive to modify them!
+- [Slides Day 1](https://docs.google.com/presentation/d/1mzRYHrmfexKwKkiaZZS5DguoUz_esjuRMkk-IEJ9o-o/edit?usp=sharing)
+- [Slides Day 2](https://docs.google.com/presentation/d/11n00zseDKOjKUc2Pte8pyou9EcySIn4Skcu4QRm4L-Y/edit?usp=sharing)
+- [Slides Day 3](https://docs.google.com/presentation/d/1PzLnlFo9eLHXk_KdeHGJx9PBuY_QiyT0P3wMWJn40ag/edit?usp=sharing)
+- [Slides Day 4](https://docs.google.com/presentation/d/10PK631HZlc3jG8h_Ht-cU6xTH_twVqK__fSTwsYoHtE/edit?usp=sharing)
+
+### Peblio Worksheets
 _These pebls include the slides and sample code for PD. It will be updated daily._
 - [PD Materials: Day 1](https://demo.peblio.co/pebl/vFj5_NK0y)
 - [PD Materials: Day 2](https://demo.peblio.co/pebl/i5BdgItjl)
