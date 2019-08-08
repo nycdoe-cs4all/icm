@@ -5,9 +5,9 @@
 ### Google Slides
 _These are the individual daily slides. Copy them to your own Google Drive to modify them!_
 - [CSI Slides Day 1](https://docs.google.com/presentation/d/1mzRYHrmfexKwKkiaZZS5DguoUz_esjuRMkk-IEJ9o-o/edit?usp=sharing)
-- [CSI Day 2](https://docs.google.com/presentation/d/11n00zseDKOjKUc2Pte8pyou9EcySIn4Skcu4QRm4L-Y/edit?usp=sharing)
-- [CSI Day 3](https://docs.google.com/presentation/d/1PzLnlFo9eLHXk_KdeHGJx9PBuY_QiyT0P3wMWJn40ag/edit?usp=sharing)
-- [CSI Day 4](https://docs.google.com/presentation/d/10PK631HZlc3jG8h_Ht-cU6xTH_twVqK__fSTwsYoHtE/edit?usp=sharing)
+- [CSI Slides Day 2](https://docs.google.com/presentation/d/11n00zseDKOjKUc2Pte8pyou9EcySIn4Skcu4QRm4L-Y/edit?usp=sharing)
+- [CSI Slides Day 3](https://docs.google.com/presentation/d/1PzLnlFo9eLHXk_KdeHGJx9PBuY_QiyT0P3wMWJn40ag/edit?usp=sharing)
+- [CSI Slides Day 4](https://docs.google.com/presentation/d/10PK631HZlc3jG8h_Ht-cU6xTH_twVqK__fSTwsYoHtE/edit?usp=sharing)
 
 ### Peblio Worksheets
 _These pebls include the slides and sample code for PD. It will be updated daily._
