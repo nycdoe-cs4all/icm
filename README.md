@@ -192,7 +192,7 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 - [Processing Discourse discussion group](https://discourse.processing.org/) 
 - [NYC DOE CSforAll Teacher Slack group](https://join.slack.com/t/cs4allteachers/shared_invite/enQtMzIwODg0NjEyMzg2LWNhNTI0ODk1N2RkNTQwODMxMTNhYjE1ZWYyMzZiNjM5MDRjZTQ5NTNlMGI5MjQ0OGY1MjQ2ODc0MDcwZGY2YTI) 
 
-## Class Resources (surveys, quizes and rubrics)
+## Class Resources (surveys, quizzes and rubrics)
 - [A great introduction survey by Courtney Morgan](https://docs.google.com/forms/d/1pzjxSHfZz4eSeGgvQJ-WEsx4pYlZ4Zk5ChxqCUhQxcQ/viewform?edit_requested=true)
 - [A sample quiz by Courtney Morgan](https://docs.google.com/document/d/1UsYGa4Z0lrX5ImtD0QoF6aSzN5FyVdvR5ofvlQOMMEk/edit)
 - [A sample project rubrik by Courtney Morgan](https://docs.google.com/document/d/1p8NR5mL1rEK0HZA25bN-7Jb5zITPiu6dTIn-yCsgEgs/edit)
