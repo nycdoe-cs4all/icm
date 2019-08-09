@@ -9,6 +9,7 @@ _These are the individual daily slides. Copy them to your own Google Drive to mo
 - [CSI Slides Day 3](https://docs.google.com/presentation/d/1PzLnlFo9eLHXk_KdeHGJx9PBuY_QiyT0P3wMWJn40ag/edit?usp=sharing)
 - [CSI Slides Day 4](https://docs.google.com/presentation/d/10PK631HZlc3jG8h_Ht-cU6xTH_twVqK__fSTwsYoHtE/edit?usp=sharing)
 - [CSI Slides Day 5](https://docs.google.com/presentation/d/1PP6gUOF0o7YkmUd1V0uCCxOdd7ms-LlXtxqEvA9B_IY/edit?usp=sharing)
+- [p5.js Project Guide Template - Google Doc](https://drive.google.com/open?id=1nBAFg8KXdQPwJL-0N39mnvpXk5fJrhKLA3bbBEcMZpY)
 
 
 ### Peblio Worksheets
