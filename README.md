@@ -191,3 +191,22 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 - [Facebook group for Processing and p5.js users](https://www.facebook.com/search/top/?q=creative%20coding%20with%20processing%20and%20p5.js&epa=SEARCH_BOX)
 - [Processing Discourse discussion group](https://discourse.processing.org/) 
 - [NYC DOE CSforAll Teacher Slack group](https://join.slack.com/t/cs4allteachers/shared_invite/enQtMzIwODg0NjEyMzg2LWNhNTI0ODk1N2RkNTQwODMxMTNhYjE1ZWYyMzZiNjM5MDRjZTQ5NTNlMGI5MjQ0OGY1MjQ2ODc0MDcwZGY2YTI) 
+
+## Class Resources (surveys, quizes and rubrics)
+- [A great introduction survey by Courtney Morgan](https://docs.google.com/forms/d/1pzjxSHfZz4eSeGgvQJ-WEsx4pYlZ4Zk5ChxqCUhQxcQ/viewform?edit_requested=true)
+- [A sample quiz by Courtney Morgan](https://docs.google.com/document/d/1UsYGa4Z0lrX5ImtD0QoF6aSzN5FyVdvR5ofvlQOMMEk/edit)
+- [A sample project rubrik by Courtney Morgan](https://docs.google.com/document/d/1p8NR5mL1rEK0HZA25bN-7Jb5zITPiu6dTIn-yCsgEgs/edit)
+
+## Opportunities 
+- [Hackathons for High Schoolers](https://hackathons.hackclub.com/)
+- [Built by Girls Events](https://www.builtbygirls.com/events-calendar)
+- [Wave: Built by Girls Mentorship Program](https://www.builtbygirls.com/about-wave)
+- [All Start Code: Summer program](https://www.allstarcode.org/)
+- [CS Ed Week](https://csedweek.org/)
+- [AI for All Summer Programs](http://ai-4-all.org/summer-programs/)
+- [Google Open Source Coding Challenge](https://codein.withgoogle.com/archive/)
+
+## Sample Teacher site 
+- [Jose Orea](https://josesclassroom.weebly.com/)
+- [Ben S-K](http://bsk.education/)
+
