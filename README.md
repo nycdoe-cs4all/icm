@@ -21,7 +21,7 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 - [p5.js Project Guide Template](https://demo.peblio.co/pebl/3oHELZENk)
 
 ## Curriculum  
- _Below you can find all teacher-facing lessons and materials for the ICM curriculum. Click on the arrow to the lft to expand menu and access lessons. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
+ _Below you can find all teacher-facing lessons and materials for the ICM curriculum. Each unit includes a series of topics and lessons that end with a final project where students creatively apply the computer science concepts they have learned. Click on the arrow to the lft to expand menu and access lessons. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary><br>
   
@@ -143,6 +143,8 @@ _These pebls include the slides and sample code for PD. It will be updated daily
     - [Project Template](https://demo.peblio.co/pebl/fPElZ0m2I)
 
 </details>
+
+This curriculum was developed by the [NYCDOE CS4All](http://cs4all.nyc) academics team with lead writer [Luisa Pereira](http://www.luisapereira.net/). Additional contributors to the curriculum include Courtney Morgan, José Orea, Esther Hersch, and the [Processing Foundation](https://processingfoundation.org/). All lessons are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/). For more info on the limitations and use of materials under this license please click [here](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 ## A Guide to Teaching CS
 _This pebl includes some suggestions for classroom practices. It is by no means exhaustive and should be used to find practices that you think will be effective in your classroom._
