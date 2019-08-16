@@ -20,18 +20,8 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 - [PD Materials: Day 4](https://demo.peblio.co/pebl/Qb50Ipmir)
 - [p5.js Project Guide Template](https://demo.peblio.co/pebl/3oHELZENk)
 
-## A Guide to Teaching CS
-_This pebl includes some suggestions for classroom practices. It is by no means exhaustive and should be used to find practices that you think will be effective in your classroom._
-- [CS Teaching Guide](https://demo.peblio.co/pebl/rMb6jcnem)
-
-## A Guide to Using Peblio 
-_The curriculum and worksheets are built using the Peblio platform. Peblio pages contain executable code, text, slides, videos and more. They are useful for creating and sharing programming worksheets and documenting programming projects. See this guide for detailed instructions._
-- [Peblio Guide](https://demo.peblio.co/pebl/XeJAt6pVQ)
-- [Uploading images in Peblio](https://demo.peblio.co/pebl/5qrWMaoi6)
-- [Loading Gifs in p5](https://demo.peblio.co/pebl/b6F-rrWDF)
-
 ## Curriculum  
- _Below you can find all teacher-facing lessons and materials for the ICM curriculum. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
+ _Below you can find all teacher-facing lessons and materials for the ICM curriculum. Click on the arrow to the lft to expand menu and access lessons. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
 
 <details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary><br>
   
@@ -153,6 +143,16 @@ _The curriculum and worksheets are built using the Peblio platform. Peblio pages
     - [Project Template](https://demo.peblio.co/pebl/fPElZ0m2I)
 
 </details>
+
+## A Guide to Teaching CS
+_This pebl includes some suggestions for classroom practices. It is by no means exhaustive and should be used to find practices that you think will be effective in your classroom._
+- [CS Teaching Guide](https://demo.peblio.co/pebl/rMb6jcnem)
+
+## A Guide to Using Peblio 
+_The curriculum and worksheets are built using the Peblio platform. Peblio pages contain executable code, text, slides, videos and more. They are useful for creating and sharing programming worksheets and documenting programming projects. See this guide for detailed instructions._
+- [Peblio Guide](https://demo.peblio.co/pebl/XeJAt6pVQ)
+- [Uploading images in Peblio](https://demo.peblio.co/pebl/5qrWMaoi6)
+- [Loading Gifs in p5](https://demo.peblio.co/pebl/b6F-rrWDF)
 
 ## Instructional Videos 
 _The coding train is am amazing resource for p5 instructional videos. Dan Shiffman is amazing and you can learn anything from his channel._
