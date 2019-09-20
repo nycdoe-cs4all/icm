@@ -9,6 +9,7 @@ _These are the individual daily slides. Copy them to your own Google Drive to mo
 - [CSI Slides Day 3](https://docs.google.com/presentation/d/1PzLnlFo9eLHXk_KdeHGJx9PBuY_QiyT0P3wMWJn40ag/edit?usp=sharing)
 - [CSI Slides Day 4](https://docs.google.com/presentation/d/10PK631HZlc3jG8h_Ht-cU6xTH_twVqK__fSTwsYoHtE/edit?usp=sharing)
 - [CSI Slides Day 5](https://docs.google.com/presentation/d/1PP6gUOF0o7YkmUd1V0uCCxOdd7ms-LlXtxqEvA9B_IY/edit?usp=sharing)
+- [September 21, 2019 PD Slides](https://docs.google.com/presentation/d/1aCdAHY2njfWqQThV2W5Ne_mjDGPErhWL3fO1TXndZzM/edit?usp=sharing)
 - [p5.js Project Guide Template - Google Doc](https://drive.google.com/open?id=1nBAFg8KXdQPwJL-0N39mnvpXk5fJrhKLA3bbBEcMZpY)
 
 
@@ -18,6 +19,7 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 - [PD Materials: Day 2](https://demo.peblio.co/pebl/i5BdgItjl)
 - [PD Materials: Day 3](https://demo.peblio.co/pebl/8yxLcTuw8)
 - [PD Materials: Day 4](https://demo.peblio.co/pebl/Qb50Ipmir)
+- [PD Materials: September 21, 2019](https://demo.peblio.co/pebl/EF-Nlm-y9)
 - [p5.js Project Guide Template](https://demo.peblio.co/pebl/3oHELZENk)
 
 ## Curriculum  
@@ -141,6 +143,52 @@ _These pebls include the slides and sample code for PD. It will be updated daily
   - [1.6: Mini Project: Wallpaper](https://demo.peblio.co/profile/CS4ALL/folder/B1KKgm6ZH)
     - [Lesson Plan](https://demo.peblio.co/pebl/oP8o2mTsh)
     - [Project Template](https://demo.peblio.co/pebl/fPElZ0m2I)
+    
+- [Topic 2: Arrays](https://demo.peblio.co/profile/CS4ALL/folder/HyJRvTl64)
+  - [2.1: Introduction to Arrays](https://demo.peblio.co/profile/CS4ALL/folder/ByGbKgWDB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/9uZAOWQKa)
+    - [Worksheet](https://demo.peblio.co/pebl/Y3JJeNuaS)
+  - [2.2: Arrays and floor() Function](https://demo.peblio.co/profile/CS4ALL/folder/HkR0KxWvB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/nU5TelKJf)
+    - [Worksheet](https://demo.peblio.co/pebl/XavNfuHEJ)
+  - [2.3: Arrays and Loops](https://demo.peblio.co/profile/CS4ALL/folder/ByGgcxbwr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/lea66r4_Q)
+    - [Worksheet](https://demo.peblio.co/pebl/mRsBwcZgv)
+    
+- [Topic 3: Media](https://demo.peblio.co/profile/CS4ALL/folder/rkbk61b6N)
+  - [3.1 Preload, Load Image, Display Image](https://demo.peblio.co/profile/CS4ALL/folder/BkPs2WWDr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/PaWg1fKWD)
+  - [3.2 Images & Arrays with ML5](https://demo.peblio.co/profile/CS4ALL/folder/HyiAhZ-vr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/kARTc2nTG)
+  - [3.3 Image Manipulation (Position, Size, Tint)](https://demo.peblio.co/profile/CS4ALL/folder/SJ0g6bZvB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/qrmFm_54_)
+    - [Worksheet](https://demo.peblio.co/pebl/v9xL6IeOV)
+  - [3.4 Mini-Project: Vision Board ](https://demo.peblio.co/profile/CS4ALL/folder/BJIHTW-DS)
+    - [Lesson Plan](https://demo.peblio.co/pebl/NDE9dky3-)
+    - [Worksheet](https://demo.peblio.co/pebl/z_vUtPTPA)
+    
+- [Topic 4: Typography](https://demo.peblio.co/profile/CS4ALL/folder/H1P24B-p4)
+  - [4.1 Fonts and Text Styling](https://demo.peblio.co/profile/CS4ALL/folder/B10fbMbwr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/s4r1kQ6n6)
+    - [Worksheet](https://demo.peblio.co/pebl/4fF-Sb1Vd)
+  - [4.2: Mini-Project: Kinetic Type](https://demo.peblio.co/profile/CS4ALL/folder/r1hNZzZvB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/P6i2V2QVK)
+    - [Worksheet](https://demo.peblio.co/pebl/Xffbv1ep9)
+    
+- [Topic 5: Sound](https://demo.peblio.co/profile/CS4ALL/folder/H1jfMUZTN)
+  - [5.1 Sound Files](https://demo.peblio.co/profile/CS4ALL/folder/HJ0R-MWvr)
+    - [Lesson Plan](https://demo.peblio.co/pebl/ZEB1274Nr)
+    - [Worksheet](https://demo.peblio.co/pebl/hvXTa-pgW)
+  - [5.2 Playing Sounds](https://demo.peblio.co/profile/CS4ALL/folder/BywxGzbPS)
+    - [Lesson Plan](https://demo.peblio.co/pebl/momVoq8Ix)
+    - [Worksheet](https://demo.peblio.co/pebl/6kDQHxEvE)
+  - [5.3 Mini-Project: Musical Keyboard](https://demo.peblio.co/profile/CS4ALL/folder/SkTZGMWPH)
+    - [Lesson Plan](https://demo.peblio.co/pebl/Zn56hrl2Q)
+    - [Worksheet](https://demo.peblio.co/pebl/VuIpP6p0l)    
+ 
+- [Unit 3 Final Project](https://demo.peblio.co/profile/CS4ALL/folder/SJmOfzbDB)
+    - [Lesson Plan](https://demo.peblio.co/pebl/G8AlyuHEf)
+    - [Worksheet](https://demo.peblio.co/pebl/mLkGFnO1_)
 
 </details>
 
