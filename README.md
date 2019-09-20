@@ -25,7 +25,7 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 ## Curriculum  
  _Below you can find all teacher-facing lessons and materials for the ICM curriculum. Each unit includes a series of topics and lessons that end with a final project where students creatively apply the computer science concepts they have learned. Click on the arrow to the lft to expand menu and access lessons. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
 
-<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary><br>
+<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/rkzenSqzN">Unit 1: Drawing, Variables, Random</a></summary>
   
 - [Unit Overview](https://demo.peblio.co/pebl/KrE5DRXmW)
 
@@ -78,7 +78,7 @@ _These pebls include the slides and sample code for PD. It will be updated daily
   
   </details>
 
-<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2: Response & Draw</a></summary><br>
+<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/B1mL8C2Q4">Unit 2: Response & Draw</a></summary>
  
 - [Unit Overview](https://demo.peblio.co/pebl/3Q8q8S6p3)
 
@@ -122,7 +122,9 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 
 </details>
 
-<details><summary><a href="https://demo.peblio.co/dashboard/CS4ALL/folder/ry7OAk22N">Unit 3: Loops, Arrays, Media</a></summary><br>
+<details><summary><a href="https://demo.peblio.co/dashboard/CS4ALL/folder/ry7OAk22N">Unit 3: Loops, Arrays, Media</a></summary>
+ 
+ - [Unit Overview](https://demo.peblio.co/pebl/5UkJ7hwyu)
 
 - [Topic 1: Loops](https://demo.peblio.co/profile/CS4ALL/folder/rkKlPplpN)
   - [1.1: While Loops](https://demo.peblio.co/profile/CS4ALL/folder/ByzQgXp-r)
