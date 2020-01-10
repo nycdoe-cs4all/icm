@@ -17,10 +17,10 @@ _These are the individual daily slides. Copy them to your own Google Drive to mo
 
 ### Peblio Worksheets
 _These pebls include the slides and sample code for PD. It will be updated daily._
-- [PD Materials: Day 1](https://demo.peblio.co/pebl/vFj5_NK0y)
-- [PD Materials: Day 2](https://demo.peblio.co/pebl/i5BdgItjl)
-- [PD Materials: Day 3](https://demo.peblio.co/pebl/8yxLcTuw8)
-- [PD Materials: Day 4](https://demo.peblio.co/pebl/Qb50Ipmir)
+- [PD Materials: CSI Day 1](https://demo.peblio.co/pebl/vFj5_NK0y)
+- [PD Materials: CSI Day 2](https://demo.peblio.co/pebl/i5BdgItjl)
+- [PD Materials: CSI Day 3](https://demo.peblio.co/pebl/8yxLcTuw8)
+- [PD Materials: CSI Day 4](https://demo.peblio.co/pebl/Qb50Ipmir)
 - [PD Materials: September 21, 2019](https://demo.peblio.co/pebl/EF-Nlm-y9)
 - [PD Materials: October 19, 2019](https://demo.peblio.co/pebl/kPBEods6E)
 - [PD Materials: November 16, 2019](https://demo.peblio.co/pebl/YIo1TzAjt)
