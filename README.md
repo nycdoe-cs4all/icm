@@ -22,6 +22,9 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 - [PD Materials: Day 3](https://demo.peblio.co/pebl/8yxLcTuw8)
 - [PD Materials: Day 4](https://demo.peblio.co/pebl/Qb50Ipmir)
 - [PD Materials: September 21, 2019](https://demo.peblio.co/pebl/EF-Nlm-y9)
+- [PD Materials: October 19, 2019](https://demo.peblio.co/pebl/kPBEods6E)
+- [PD Materials: November 16, 2019](https://demo.peblio.co/pebl/YIo1TzAjt)
+- [PD Materials: January 11, 2020](https://demo.peblio.co/pebl/Zbn6G4Uww)
 - [p5.js Project Guide Template](https://demo.peblio.co/pebl/3oHELZENk)
 
 ## Curriculum  
