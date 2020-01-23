@@ -128,7 +128,7 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 
 </details>
 
-<details><summary><a href="https://demo.peblio.co/dashboard/CS4ALL/folder/ry7OAk22N">Unit 3: Loops, Arrays, Media</a></summary>
+<details><summary><a href="https://demo.peblio.co/profile/CS4ALL/folder/ry7OAk22N">Unit 3: Loops, Arrays, Media</a></summary>
  
  - [Unit Overview](https://demo.peblio.co/pebl/5UkJ7hwyu)
 
