@@ -200,6 +200,43 @@ _These pebls include the slides and sample code for PD. It will be updated daily
 
 </details>
 
+<details><summary><a href="https://demo.peblio.co/dashboard/CS4ALL/folder/Bya9TUrVI">Unit 4: Motion & Animation </a></summary>
+ 
+- [Unit 4 Overview](https://demo.peblio.co/pebl/-cJ27bCo)
+ 
+- [Topic 1: Loops](https://demo.peblio.co/profile/CS4ALL/folder/rkKlPplpN)
+  - [1.1: Intro to Motion with Flipbooks](https://demo.peblio.co/dashboard/CS4ALL/folder/Hk_FTYkv8)
+    - [Lesson Plan](https://demo.peblio.co/pebl/yk82Eu8U)
+    - [Worksheet](https://demo.peblio.co/pebl/u9CzqpbaR)
+  - [1.2: Move In All Directions](https://demo.peblio.co/dashboard/CS4ALL/folder/SkE319kP8)
+    - [Lesson Plan](https://demo.peblio.co/pebl/HjnhfF4t_)
+    - [Worksheet](https://demo.peblio.co/pebl/ufWGTQ-dF)
+  - [Mini Project: DVD Logo](https://demo.peblio.co/dashboard/CS4ALL/folder/H1OfyskDL)
+    - [Lesson Plan](https://demo.peblio.co/pebl/Helqmvxwq)
+    - [Worksheet](https://demo.peblio.co/pebl/ARYfbjwhW)
+ 
+- [Topic 2: Transformations](https://demo.peblio.co/dashboard/CS4ALL/folder/rJTIyhyP8)
+  - [2.1: Transformations with Push & Pop](https://demo.peblio.co/dashboard/CS4ALL/folder/Hk_FTYkv8)
+    - [Lesson Plan](https://demo.peblio.co/pebl/bU1ebZ0yC)
+    - [Worksheet]()
+  - [2.2: Rotate](https://demo.peblio.co/dashboard/CS4ALL/folder/HJGae21wL)
+    - [Lesson Plan](https://demo.peblio.co/pebl/uDBcWO-YW)
+    - [Worksheet](https://demo.peblio.co/pebl/zhUUW6eBb)
+   
+- [Topic 3: Sine and Cosine](https://demo.peblio.co/dashboard/CS4ALL/folder/ryKzO3yv8)
+  - [3.1: Sine](https://demo.peblio.co/dashboard/CS4ALL/folder/Bkq7_hJvL)
+    - [Lesson Plan](https://demo.peblio.co/pebl/e8TZV7ilk)
+    - [Worksheet](https://demo.peblio.co/pebl/zEuOmHtNa)
+  - [3.2: Cosine && Circular Motion](https://demo.peblio.co/dashboard/CS4ALL/folder/BkDveayPU)
+    - [Lesson Plan](https://demo.peblio.co/pebl/Rc6apUYWx)
+    - [Worksheet](https://demo.peblio.co/pebl/jsKpWutTc)
+ 
+ - [Unit 4 Final Project](https://demo.peblio.co/dashboard/CS4ALL/folder/SyindTJP8)
+    - [Lesson Plan](https://demo.peblio.co/pebl/V6n3k8xbC)
+    - [Worksheet](https://demo.peblio.co/pebl/pJNLPA3Dt)
+ 
+ </details>
+
 This curriculum was developed by the [NYCDOE CS4All](http://cs4all.nyc) academics team with lead writer [Luisa Pereira](http://www.luisapereira.net/). Additional contributors to the curriculum include Courtney Morgan :ok_woman: & José Orea :squirrel: (teacher implementation guide and additional activities), Esther Hersh, and the [Processing Foundation](https://processingfoundation.org/). All lessons are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/). For more info on the limitations and use of materials under this license please click [here](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 ## A Guide to Teaching CS
