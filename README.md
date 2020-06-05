@@ -13,6 +13,7 @@ _These are the individual daily slides. Copy them to your own Google Drive to mo
 - [October 19, 2019 PD Slides](https://docs.google.com/presentation/d/13BhsKUdtPjCj-s-sKqJpgpdC7-XNSp77d2OIfdVgDRw/edit?usp=sharing)
 - [November 16, 2019 PD Slides](https://docs.google.com/presentation/d/1_U11vqh6G102nDlNTB9JtNo8yFsAWxKYZw_1Bsydu_k/edit?usp=sharing)
 - [January 11, 2020 PD Slides](https://docs.google.com/presentation/d/1NnmLBWu6KvyT_O38T1AHBumRBnmdmrpAETXILxrOoe4/edit?usp=sharing)
+- [January 5, 2020 Community Meeting Slides](https://docs.google.com/presentation/d/1oAZXjeIHIQXgUKw1Gy4FjtxYXRWRkLJCCQfYfQoa0as/edit?usp=sharing)
 - [p5.js Project Guide Template - Google Doc](https://drive.google.com/open?id=1nBAFg8KXdQPwJL-0N39mnvpXk5fJrhKLA3bbBEcMZpY)
 
 
