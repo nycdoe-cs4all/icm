@@ -3,6 +3,16 @@
 ## PD Materials
 <details>
  <summary><strong>SY 2020-2021</strong></summary>
+
+#### Summer PD 2020
+
+- [Get Set for Virtual PD](https://docs.google.com/document/d/168A7vLz9dP-Fm0PnzoFg18DbHc8AnJ6XWRE6EEJ6VOc/edit?usp=sharing)
+
+- [CS4All Zoom Best Practices](https://docs.google.com/document/d/1lEggJCE5LZWnBJ6rqNcP0Trtb1RqL5MKA-ZPWmpr49U/edit?usp=sharing)
+
+- [Anchor Chart for Synchronous Learning](https://docs.google.com/document/d/1Mi9o_jFXyvhLKT2zOLh4joBWeMlsIFVyZb60xRScX0U/edit?usp=sharing)
+
+
  </details>
 <details>
  <summary><strong>SY 2019-2020</strong></summary>
