@@ -1,33 +1,61 @@
 # Introduction to Computational Media with p5.js
 
 ## PD Materials
-
-### Google Slides
-_These are the individual daily slides. Copy them to your own Google Drive to modify them!_
+<details>
+ <summary><strong>SY 2020-2021</strong></summary>
+ </details>
+<details>
+ <summary><strong>SY 2019-2020</strong></summary>
+ 
+ #### Google Slides
+ 
+   _These are the individual daily slides for SY 19-20. Copy them to your own Google Drive to modify them!_
+   
 - [CSI Slides Day 1](https://docs.google.com/presentation/d/1mzRYHrmfexKwKkiaZZS5DguoUz_esjuRMkk-IEJ9o-o/edit?usp=sharing)
+ 
 - [CSI Slides Day 2](https://docs.google.com/presentation/d/11n00zseDKOjKUc2Pte8pyou9EcySIn4Skcu4QRm4L-Y/edit?usp=sharing)
+
 - [CSI Slides Day 3](https://docs.google.com/presentation/d/1PzLnlFo9eLHXk_KdeHGJx9PBuY_QiyT0P3wMWJn40ag/edit?usp=sharing)
+
 - [CSI Slides Day 4](https://docs.google.com/presentation/d/10PK631HZlc3jG8h_Ht-cU6xTH_twVqK__fSTwsYoHtE/edit?usp=sharing)
+
 - [CSI Slides Day 5](https://docs.google.com/presentation/d/1PP6gUOF0o7YkmUd1V0uCCxOdd7ms-LlXtxqEvA9B_IY/edit?usp=sharing)
+
 - [September 21, 2019 PD Slides](https://docs.google.com/presentation/d/1aCdAHY2njfWqQThV2W5Ne_mjDGPErhWL3fO1TXndZzM/edit?usp=sharing)
+
 - [October 19, 2019 PD Slides](https://docs.google.com/presentation/d/13BhsKUdtPjCj-s-sKqJpgpdC7-XNSp77d2OIfdVgDRw/edit?usp=sharing)
+
 - [November 16, 2019 PD Slides](https://docs.google.com/presentation/d/1_U11vqh6G102nDlNTB9JtNo8yFsAWxKYZw_1Bsydu_k/edit?usp=sharing)
+
 - [January 11, 2020 PD Slides](https://docs.google.com/presentation/d/1NnmLBWu6KvyT_O38T1AHBumRBnmdmrpAETXILxrOoe4/edit?usp=sharing)
+
 - [June 5, 2020 Community Meeting Slides](https://docs.google.com/presentation/d/1j_Y8bn5mW9QWNbaFwYM5OW96EoPJp3ac8fS0hcwuE1k/edit?usp=sharing)
+
 - [p5.js Project Guide Template - Google Doc](https://drive.google.com/open?id=1nBAFg8KXdQPwJL-0N39mnvpXk5fJrhKLA3bbBEcMZpY)
 
+#### Peblio Worksheets
 
-### Peblio Worksheets
-_These pebls include the slides and sample code for PD. It will be updated daily._
+_These pebls include the slides and sample code for PD._
+
 - [PD Materials: CSI Day 1](https://demo.peblio.co/pebl/vFj5_NK0y)
+
 - [PD Materials: CSI Day 2](https://demo.peblio.co/pebl/i5BdgItjl)
+
 - [PD Materials: CSI Day 3](https://demo.peblio.co/pebl/8yxLcTuw8)
+
 - [PD Materials: CSI Day 4](https://demo.peblio.co/pebl/Qb50Ipmir)
+
 - [PD Materials: September 21, 2019](https://demo.peblio.co/pebl/EF-Nlm-y9)
+
 - [PD Materials: October 19, 2019](https://demo.peblio.co/pebl/kPBEods6E)
+
 - [PD Materials: November 16, 2019](https://demo.peblio.co/pebl/YIo1TzAjt)
+
 - [PD Materials: January 11, 2020](https://demo.peblio.co/pebl/Zbn6G4Uww)
+
 - [p5.js Project Guide Template](https://demo.peblio.co/pebl/3oHELZENk)
+
+</details>
 
 ## Curriculum  
  _Below you can find all teacher-facing lessons and materials for the ICM curriculum. Each unit includes a series of topics and lessons that end with a final project where students creatively apply the computer science concepts they have learned. Click on the arrow to the lft to expand menu and access lessons. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
