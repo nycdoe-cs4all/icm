@@ -77,6 +77,10 @@ _These pebls include the slides and sample code for PD._
   
 - [Unit Overview](https://demo.peblio.co/pebl/KrE5DRXmW)
 
+- [Unit 1 Remote Teaching Planning Document](https://docs.google.com/document/d/1LBKe4l4rxa6GzjVp9ioZAdfVByD9FMdrflBpDfDSDn4/edit?usp=sharing)
+
+- [Remote Teching Unit Planning Document [Template]](https://docs.google.com/document/d/19fG27aeDip6BsPvGYSDRhYedOl9BNBRQHWd9HMH-jfM/edit?usp=sharing)
+
 - [Topic 1: Grayscale Drawings](https://demo.peblio.co/profile/CS4ALL/folder/rJ6du6UfN)
   - [1.1: p5 Introduction](https://demo.peblio.co/profile/CS4ALL/folder/HkW5Vy_yH)
     - [Lesson Plan](https://demo.peblio.co/pebl/yR6_Zr4tD)
