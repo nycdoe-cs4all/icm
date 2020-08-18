@@ -8,11 +8,13 @@
 
 - Join our Google Classroom with your <strong>NYC Schools email</strong>. This is our landing page for resources and the hub of our online learning! You can do that by going [here](https://classroom.google.com/) once you are logged into your account, clicking the <strong>+</strong>, and entering code <strong>mc33qbm</strong>.
 
+- [ICM Summer 2020 PD Slide Deck](https://docs.google.com/presentation/d/1QDYS6fXdvf6ibiVn7THJNDj5eWDucvaxtAStsXZEOkI/edit?usp=sharing)
+
+- [Anchor Chart for Synchronous Learning](https://docs.google.com/document/d/1Mi9o_jFXyvhLKT2zOLh4joBWeMlsIFVyZb60xRScX0U/edit?usp=sharing)
+
 - [Get Set for Virtual PD](https://docs.google.com/document/d/168A7vLz9dP-Fm0PnzoFg18DbHc8AnJ6XWRE6EEJ6VOc/edit?usp=sharing)
 
 - [CS4All Zoom Best Practices](https://docs.google.com/document/d/1lEggJCE5LZWnBJ6rqNcP0Trtb1RqL5MKA-ZPWmpr49U/edit?usp=sharing)
-
-- [Anchor Chart for Synchronous Learning](https://docs.google.com/document/d/1Mi9o_jFXyvhLKT2zOLh4joBWeMlsIFVyZb60xRScX0U/edit?usp=sharing)
 
 
  </details>
