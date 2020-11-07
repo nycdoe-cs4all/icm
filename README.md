@@ -8,6 +8,7 @@
 
 - Join our Google Classroom with your <strong>NYC Schools email</strong>. This is our landing page for resources and the hub of our online learning! You can do that by going [here](https://classroom.google.com/) once you are logged into your account, clicking the <strong>+</strong>, and entering code <strong>mc33qbm</strong>.
 
+- [ICM November 2020 PD Slide Deck](https://docs.google.com/presentation/d/1SngUaK6lnUfjUyx2SYQh9PkUK4X9UlCvbz02DYQiwS4/edit?usp=sharing)
 
 - [ICM October 2020 PD Slide Deck](https://docs.google.com/presentation/d/14MgDRJQacvVRtHb3AXkW0IWVsW-vLfofzOGg0TBunRg/edit?usp=sharing)
 
