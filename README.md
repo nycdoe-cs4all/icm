@@ -24,6 +24,14 @@
 
 - [CS4All Zoom Best Practices](https://docs.google.com/document/d/1lEggJCE5LZWnBJ6rqNcP0Trtb1RqL5MKA-ZPWmpr49U/edit?usp=sharing)
 
+#### ICM Unit Reference Slides
+
+- [Unit 1](https://docs.google.com/presentation/d/1r55otxwmVP4tp8GwC57-uQUAIiuOCkmoCW0bbwgOzhg/edit?usp=sharing)
+
+- [Unit 2](https://docs.google.com/presentation/d/1QwIsO_d1spMdGGMy-p5VKbrR7dsPT58-tqk7KvhFVM4/edit?usp=sharing)
+
+- [Unit 3](https://docs.google.com/presentation/d/1pg0G_cy3SGTl4zj_RJPMlu_Fr_bCY5ja7tA7aOUyrWg/edit?usp=sharing)
+
 
  </details>
  
