@@ -4,7 +4,7 @@
 <details>
  <summary><strong>SY 2020-2021</strong></summary>
 
-#### Summer PD 2020
+#### Synchro PD Slides
 
 - Join our Google Classroom with your <strong>NYC Schools email</strong>. This is our landing page for resources and the hub of our online learning! You can do that by going [here](https://classroom.google.com/) once you are logged into your account, clicking the <strong>+</strong>, and entering code <strong>mc33qbm</strong>.
 
