@@ -6,8 +6,6 @@
 
 #### Synchro PD Slides
 
-- Join our Google Classroom with your <strong>NYC Schools email</strong>. This is our landing page for resources and the hub of our online learning! You can do that by going [here](https://classroom.google.com/) once you are logged into your account, clicking the <strong>+</strong>, and entering code <strong>mc33qbm</strong>.
-
 - [ICM February 2021 PD Slide Deck](https://docs.google.com/presentation/d/1w2bRZvAbGuulj0l8896fNlUeiNuHzfHgyfL6lX7E_LY/edit?usp=sharing)
 
 - [ICM January 2021 PD Slide Deck](https://docs.google.com/presentation/d/1HvAyLbKC9_ikISL1XR1rwXxQOrQNtkOrNEX-XeqLB-g/edit?usp=sharing)
@@ -21,6 +19,8 @@
 - [ICM Summer 2020 PD Slide Deck](https://docs.google.com/presentation/d/1QDYS6fXdvf6ibiVn7THJNDj5eWDucvaxtAStsXZEOkI/edit?usp=sharing)
 
 #### Important Links
+
+- Make sure to join our Google Classroom with your <strong>NYC Schools email</strong>. This is our landing page for resources and the hub of our online learning! You can do that by going [here](https://classroom.google.com/) once you are logged into your account, clicking the <strong>+</strong>, and entering code <strong>mc33qbm</strong>.
 
 - [Anchor Chart for Synchronous Learning](https://docs.google.com/document/d/1Mi9o_jFXyvhLKT2zOLh4joBWeMlsIFVyZb60xRScX0U/edit?usp=sharing)
 
