@@ -20,6 +20,8 @@
 
 - [ICM Summer 2020 PD Slide Deck](https://docs.google.com/presentation/d/1QDYS6fXdvf6ibiVn7THJNDj5eWDucvaxtAStsXZEOkI/edit?usp=sharing)
 
+#### Important Links
+
 - [Anchor Chart for Synchronous Learning](https://docs.google.com/document/d/1Mi9o_jFXyvhLKT2zOLh4joBWeMlsIFVyZb60xRScX0U/edit?usp=sharing)
 
 - [NYCDOE CS4All Teacher Slack](https://cs4allteachers.slack.com)
