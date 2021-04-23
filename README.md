@@ -20,6 +20,16 @@
 
 - [ICM Summer 2020 PD Slide Deck](https://docs.google.com/presentation/d/1QDYS6fXdvf6ibiVn7THJNDj5eWDucvaxtAStsXZEOkI/edit?usp=sharing)
 
+#### ICM Unit Reference Slides
+
+- [Unit 1](https://docs.google.com/presentation/d/1r55otxwmVP4tp8GwC57-uQUAIiuOCkmoCW0bbwgOzhg/edit?usp=sharing)
+
+- [Unit 2](https://docs.google.com/presentation/d/1QwIsO_d1spMdGGMy-p5VKbrR7dsPT58-tqk7KvhFVM4/edit?usp=sharing)
+
+- [Unit 3](https://docs.google.com/presentation/d/1pg0G_cy3SGTl4zj_RJPMlu_Fr_bCY5ja7tA7aOUyrWg/edit?usp=sharing)
+
+- [Unit 5](https://docs.google.com/presentation/d/1gOH6DJZgaWulNo4Mz2MNQckDaVEzLgGUGg1j1G16atw/edit?usp=sharing)
+
 #### Important Links
 
 - Make sure to join our Google Classroom with your <strong>NYC Schools email</strong>. This is our landing page for resources and the hub of our online learning! You can do that by going [here](https://classroom.google.com/) once you are logged into your account, clicking the <strong>+</strong>, and entering code <strong>mc33qbm</strong>.
@@ -31,17 +41,6 @@
 - [Get Set for Virtual PD](https://docs.google.com/document/d/168A7vLz9dP-Fm0PnzoFg18DbHc8AnJ6XWRE6EEJ6VOc/edit?usp=sharing)
 
 - [CS4All Zoom Best Practices](https://docs.google.com/document/d/1lEggJCE5LZWnBJ6rqNcP0Trtb1RqL5MKA-ZPWmpr49U/edit?usp=sharing)
-
-#### ICM Unit Reference Slides
-
-- [Unit 1](https://docs.google.com/presentation/d/1r55otxwmVP4tp8GwC57-uQUAIiuOCkmoCW0bbwgOzhg/edit?usp=sharing)
-
-- [Unit 2](https://docs.google.com/presentation/d/1QwIsO_d1spMdGGMy-p5VKbrR7dsPT58-tqk7KvhFVM4/edit?usp=sharing)
-
-- [Unit 3](https://docs.google.com/presentation/d/1pg0G_cy3SGTl4zj_RJPMlu_Fr_bCY5ja7tA7aOUyrWg/edit?usp=sharing)
-
-- [Unit 5](https://docs.google.com/presentation/d/1gOH6DJZgaWulNo4Mz2MNQckDaVEzLgGUGg1j1G16atw/edit?usp=sharing)
-
 
  </details>
  
