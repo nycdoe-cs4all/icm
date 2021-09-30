@@ -277,7 +277,7 @@ _These pebls include the slides and sample code for PD._
  
 - [Unit 4 Overview](https://demo.peblio.co/pebl/-cJ27bCo)
  
-- [Topic 1: Loops](https://demo.peblio.co/profile/CS4ALL/folder/rkKlPplpN)
+- [Topic 1: Adding Motion](https://demo.peblio.co/profile/CS4ALL/folder/rkKlPplpN)
   - [1.1: Intro to Motion with Flipbooks](https://demo.peblio.co/dashboard/CS4ALL/folder/Hk_FTYkv8)
     - [Lesson Plan](https://demo.peblio.co/pebl/yk82Eu8U)
     - [Worksheet](https://demo.peblio.co/pebl/u9CzqpbaR)
