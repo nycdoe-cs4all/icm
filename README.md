@@ -381,6 +381,8 @@ _The coding train is am amazing resource for p5 instructional videos. Dan Shiffm
   -[Worksheet](https://demo.peblio.co/pebl/c3fUnHI9v)
 - Changing faces conditionals practice
  -[Worksheet](https://demo.peblio.co/pebl/r_n96oWxQ)
+ - Happy Coding Intro to Coding with p5.js and Processing
+  -[15-week Curriculum](https://happycoding.io/teaching/guides/semester)
 
 ## Getting started with p5 projects 
 _These projects help you get up and running with p5 very quickly. They include instructions, videos and sample code. You can create the projects in the Peblio workspace as you watch these videos. They are not classroom resources, but resources to help you build your comfort level with p5._
@@ -402,9 +404,9 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 - [Hackathons for High Schoolers](https://hackathons.hackclub.com/)
 - [Built by Girls Events](https://www.builtbygirls.com/events-calendar)
 - [Wave: Built by Girls Mentorship Program](https://www.builtbygirls.com/about-wave)
-- [All Start Code: Summer program](https://www.allstarcode.org/)
 - [CS Ed Week](https://csedweek.org/)
 - [AI for All Summer Programs](http://ai-4-all.org/summer-programs/)
+- [All Start Code: Summer program](https://www.allstarcode.org/)
 - [Google Open Source Coding Challenge](https://codein.withgoogle.com/archive/)
 
 ## Sample Teacher site 
