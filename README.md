@@ -101,6 +101,37 @@ _These pebls include the slides and sample code for PD._
 
 </details>
 
+<details>
+ <summary><strong>SY 2018-2019</strong></summary>
+ 
+ #### Google Slides
+ 
+   _These are the individual daily slides for SY 18-19. Copy them to your own Google Drive to modify them!_
+   
+- [CSI Slides Day 1](https://docs.google.com/presentation/d/1MpFoDu2kAJAUpm8Gi6skTPa9uEDRuv8oxPEXvvM5KJg/edit?usp=sharing)
+ 
+- [CSI Slides Day 2](https://docs.google.com/presentation/d/199xkVjHp0iO_5vrU1EsrGVwc3mxzOOg-wMb54BwAC4Y/edit?usp=sharing)
+
+- [CSI Slides Day 3](https://docs.google.com/presentation/d/1054h5SvSQbnNKOZMG7UcHqoZp-9aAK4MmCQC4tqPcBM/edit?usp=sharing)
+
+- [CSI Slides Day 4](https://docs.google.com/presentation/d/1jRCr8A6iTYjIUMq39NvRz4nSR0RNd6WQm6YA4r8bkGE/edit?usp=sharing)
+
+- [CSI Slides Day 5](https://docs.google.com/presentation/d/16QrRJbk6jCffvpzUDxynT6vwFc9qK0l-etSazmT__L8/edit?usp=sharing)
+
+- [September 22, 2018 PD Slides](https://docs.google.com/presentation/d/1K1RlK_FPIXah-ar2iCLo_AdEngXX7-GQbWCXhR3yJ9A/edit?usp=sharing)
+
+- [October 20, 2018 PD Slides](https://docs.google.com/presentation/d/1H_XVSsQ-kJSRA-tuPxbzlsm8ufrFbtXe1ODPLQG6-m4/edit?usp=sharing)
+
+- [November 17, 2018 PD Slides](https://docs.google.com/presentation/d/1Do93w0LkLsxOQ21OgoQ9AAbaHIA5klAeZG-s8Jsup9g/edit?usp=sharing)
+
+- [January 12, 2019 PD Slides](https://docs.google.com/presentation/d/11HXWmE2olOwAzP6PrYt8Y-30pXSx3K-XzkeifM3bgHM/edit?usp=sharing)
+ 
+- [March 9, 2019 PD Slides](https://docs.google.com/presentation/d/1oAZXjeIHIQXgUKw1Gy4FjtxYXRWRkLJCCQfYfQoa0as/edit?usp=sharing)
+ 
+- [April 13, 2019 PD Slides](https://docs.google.com/presentation/d/1AmYXq-KSQf3I-3T7I67QZp7Q4HfAO8xJru_kkUbc1Gg/edit?usp=sharing)
+
+ </details>
+
 ## Curriculum  
  _Below you can find all teacher-facing lessons and materials for the ICM curriculum. Each unit includes a series of topics and lessons that end with a final project where students creatively apply the computer science concepts they have learned. Click on the arrow to the lft to expand menu and access lessons. You can find the student-facing version [here](https://nycdoe-cs4all.github.io/index.html)_
 
